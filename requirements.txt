@@ -3,8 +3,6 @@ scipy
 scikit-learn
 pandas
 fastapi
-uvicorn
-gunicorn==19.9.0
-uvloop
-httptools
+uvicorn[standard]
+gunicorn
 kagglehub
